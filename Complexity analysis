@@ -1,0 +1,24 @@
+COMPLEXITY ANALYSIS
+
+1. Tree Construction
+Time Complexity: O(n)
+
+2. Level-Order Traversal
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+3. Linear Search
+Best Case: O(1)
+Average Case: O(n)
+Worst Case: O(n)
+Space: O(1)
+
+4. Binary Search
+Best Case: O(1)
+Average Case: O(log n)
+Worst Case: O(log n)
+Space: O(1)
+
+5. Tree Height
+Height = 3 edges
+Number of levels = 4
