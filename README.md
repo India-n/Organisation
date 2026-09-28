@@ -1,1 +1,3 @@
-# Organisation
+The organisational hierarchy was successfully represented using a general tree. Level-order traversal displayed all departments level by level. The tree has a height of 3 edges and 4 levels.
+Linear Search and Binary Search were compared based on the number of comparisons. Binary Search has better time complexity for larger sorted datasets because it works in O(log n) time, while Linear Search takes O(n) time in the average and worst cases.
+Therefore, the tree representation is suitable for organisational reporting, while Binary Search is useful for searching department names when the data is sorted.
